@@ -355,3 +355,4 @@ MigrationBackup/
 # all auto producing file
 /assets
 /build
+/src/common

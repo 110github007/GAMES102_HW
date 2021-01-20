@@ -2,7 +2,7 @@
 
 #include <UGM/UGM.h>
 
-#include "../Eigen/Dense."
+#include "../../common/Eigen/Eigen/Dense"
 
 struct CanvasData {
 	std::vector<Ubpa::pointf2> points;
