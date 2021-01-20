@@ -1,2 +1,0 @@
-# GAMES102_HW
- Homework of GAMES102
